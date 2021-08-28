@@ -17,7 +17,7 @@ I am looking to perform more machine learning studies focusing on diagnosis of c
 
 ## Skillset
 
-This is a large WIP, but here is my skillset. I like to code Python and R in Jupyter, and Julia in Juno. Prior to this I used PyCharm and RStudio respectively.
+This is a large WIP, but here is my skillset. I like to code in Python and R using Jupyter, and in Julia using Juno. Prior to this I used PyCharm and RStudio respectively.
 If you have any suggestions please feel free to contact me using the email provided on my profile, or with the 'feedback' button, it would be much appreciated!
 
 | Languages            | Skill level | Note                                                                                          |
@@ -48,5 +48,7 @@ I thought I would provide a list of packages I use frequently in Python, and my 
 ## Projects/Studies
 
 A number of my projects are studies which are currently closed source due to licensing limbo or because they are not at a stage where I wish to publish them.
-It should be noted that most of my studies datasets are sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php) and are licensed appropriately.
-In the case of a dataset being limited or non-disclosable the related study will not be made publically available unless the dataset provider allows access.
+
+It should be noted that most of my studies datasets are sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php) and are licensed appropriately. If not sourced from there, please do not use the dataset just because I have done so; always ask for clarification first. In the case of a dataset being limited or non-disclosable the related study will not be made publically available unless the dataset provider says so.
+
+I provide any helper or wrapper functions and pre-processing tools that I have created for my studies under the MIT license.
