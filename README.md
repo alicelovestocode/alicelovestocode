@@ -35,7 +35,7 @@ I thought I would provide a list of packages I use frequently in Python, and my 
 | **nilearn**          | Improving   | Cool library for neuroimaging analysis that I am looking to check out sometime.               |
 | **nonconformist**    | Proficient  | The best implementation of conformal prediction out there. Used in a number of studies.       |
 | **libsvm**           | Improving   | Looking to try out cool alternatives to scikit-learn for SVMs.                                |
-| **kmodes**           | Improving   | Strongest language and spent around 1.5 years as a freelance dev for fun.                     |
+| **kmodes**           | Improving   | An implementation of kmodes not in scikit-learn. Learning as an alternative to k-means.       |
 | **numpy**            | Proficient  | Industry standard and I use this daily.                                                       |
 | **scipy**            | Proficient  | My goto for common mathematical functions. Used often.                                        |
 | **pandas**           | Proficient  | Industry standard and I use this daily.                                                       |
