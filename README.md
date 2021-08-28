@@ -45,7 +45,7 @@ I thought I would provide a list of packages I use frequently in Python, and my 
 | **keras**            | Improving   | Looking to try out cool alternatives to scikit-learn for neural networks.                     |
 | **pytorch**          | Improving   | Again, looking to try out cool alternatives to scikit-learn for neural networks.              |
 
-## Projects/Studies
+## Projects & Licensing
 
 A number of my projects are studies which are currently closed source due to licensing limbo or because they are not at a stage where I wish to publish them.
 
