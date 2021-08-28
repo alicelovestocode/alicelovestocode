@@ -4,7 +4,7 @@
 Alice Evelyn Nørgaard
 </h1>
 <p align="center">
-My name is Alice and I am an aspiring Advanced Nurse Practitioner coding in my free time.
+My name is Alice and I am an aspiring Advanced Nurse Practitioner who codes in her free time.
 </p>
 
 ***
