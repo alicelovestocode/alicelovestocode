@@ -1,7 +1,7 @@
 ***
 <h1 align="center">
 &nbsp;
-Alice Evelyn Nørgaard
+alicelovestocode
 </h1>
 <p align="center">
 My name is Alice and I am an aspiring Advanced Nurse Practitioner who codes in her free time.
