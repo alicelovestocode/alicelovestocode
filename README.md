@@ -32,6 +32,7 @@ I thought I would provide a list of packages I use frequently in Python, and my 
 | Python Packages      | Skill level | Note                                                                                          |
 | -------------------- | ----------- | --------------------------------------------------------------------------------------------- |
 | **scikit-learn**     | Proficient  | Industry standard and I use this daily.                                                       |
+| **mlxtend**          | Improving   | Machine learning extensions. Mostly used for ensemble classifiers but looking to use for more.|
 | **nilearn**          | Improving   | Cool library for neuroimaging analysis that I am looking to check out sometime.               |
 | **nonconformist**    | Proficient  | The best implementation of conformal prediction out there. Used in a number of studies.       |
 | **libsvm**           | Improving   | Looking to try out cool alternatives to scikit-learn for SVMs.                                |
