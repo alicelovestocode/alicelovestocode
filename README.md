@@ -11,14 +11,15 @@ My name is Alice and I am an aspiring Advanced Nurse Practitioner who codes in h
 
 ## Biography
 
-I am an undergraduate nursing student, and in my free time I like to carry out different machine learning studies on medical datasets. In 2020 this little side passion of mine became part of my career as a medical researcher when I performed a cardiovascular disease clustering study for my clinic, with an accompanying paper written in LaTeX. Since then I have won a Santander Universities scholarship involving the diagnosis of coronaviruses using smartphone recorded coughs, using a novel algorithm to segment the audio samples and perform conformal prediction on the dataset. My study is currently being published and will be available on ResearchGate in the coming months.
+I am an undergraduate nursing student, and in my free time I like to carry out different machine learning studies on medical datasets. In 2020 this little side passion of mine became part of my career as a medical researcher when I performed a cardiovascular disease clustering study for my clinic, with an accompanying paper written in LaTeX. Since then I have won a Santander Universities scholarship involving the diagnosis of coronaviruses using smartphone recorded coughs, using a novel algorithm to segment the audio samples and perform conformal prediction on the dataset. My study is currently being published and will be available in the coming months.
 
-I am looking to perform more machine learning studies focusing on diagnosis of coronaviruses, cardiovascular diseases, and pulmonary diseases using numerical, audio and image datasets. I am particularly interested in classification and regression using neural networks (ANN, CNN, RNN), decision trees, and support vector machines (SVM), as well as clustering using k-means and k-modes, and lastly inductive conformal prediction (ICP) and mondrian inductive conformal prediction (MICP).
+I am looking to perform more machine learning studies focusing on diagnosis of coronaviruses, cardiovascular diseases, and pulmonary diseases using numerical, audio and image datasets. I am particularly interested in classification and regression using neural networks (ANN, CNN, RNN), perceptrons, decision trees, and support vector machines (SVM), as well as clustering using k-means and k-modes, and lastly inductive conformal prediction (ICP) and mondrian inductive conformal prediction (MICP).
 
 ## Skillset
 
-This is a large WIP, but here is my skillset. I like to code in Python and R using Jupyter, and in Julia using Juno. Prior to this I used PyCharm and RStudio respectively.
-If you have any suggestions please feel free to contact me using the email provided on my profile, or with the 'feedback' button, it would be much appreciated!
+Here is my current skillset (it's a WIP). I like to code in Python and R using Jupyter Notebooks through Visual Studio Code, and in Julia using Juno through Atom. Prior to this I used PyCharm and RStudio respectively. I have also used Visual Studio 2019 previously.
+
+If you have any suggestions please contact me using the email provided on my profile. It would be much appreciated!
 
 | Languages            | Skill level | Note                                                                                          |
 | -------------------- | ----------- | --------------------------------------------------------------------------------------------- |
