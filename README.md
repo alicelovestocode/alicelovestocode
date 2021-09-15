@@ -35,7 +35,7 @@ I thought I would provide a list of packages I use frequently in Python, and my 
 | Python Packages      | Skill level | Note                                                                                          |
 | -------------------- | ----------- | --------------------------------------------------------------------------------------------- |
 | **scikit-learn**     | Proficient  | Industry standard and I use this daily.                                                       |
-| **imbalanced-learn** | Imrpoving   | Library of undersampling and oversamplying algorithms for imbalanced data. Plan to learn more.|
+| **imbalanced-learn** | Improving   | Library of undersampling and oversamplying algorithms for imbalanced data. Plan to learn more.|
 | **mlxtend**          | Improving   | Machine learning extensions. Mostly used for ensemble classifiers but looking to use for more.|
 | **xgboost**          | Improving   | Extreme gradient boosting. Mostly used for random forest but looking to use for more.         |
 | **nilearn**          | Improving   | Cool library for neuroimaging analysis that I am looking to check out sometime.               |
