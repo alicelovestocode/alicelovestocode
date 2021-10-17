@@ -4,7 +4,7 @@
 alicelovestocode
 </h1>
 <p align="center">
-My name is Alice and I am an aspiring Biomedical Research Scientist who codes in her free time.
+My name is Alice (she/her) and I am an aspiring Biomedical Research Scientist who codes in her free time.
 </p>
 
 ***
