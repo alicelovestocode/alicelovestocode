@@ -23,20 +23,21 @@ Here is my current WIP skillset. I like to code in Python, Julia, and R using Ju
 
 If you have any suggestions please contact me using the email provided on my profile. It would be much appreciated!
 
-| Languages            | Skill level | Note                                                                                          |
+| Languages            | Skill Level | Note                                                                                          |
 | -------------------- | ----------- | --------------------------------------------------------------------------------------------- |
 | **Python**           | Proficient  | Strongest language, being coding in Python since 2016.                                        |
 | **Julia**            | Improving   | Working through some tutorials and making a few demo projects.                                |
 | **R**                | Improving   | Used before, but I would like to understand the language a bit better.                        |
-| **LaTeX**            | Proficient  | Used to write an accompanying paper on every machine learning study of mine.               |
+| **LaTeX**            | Proficient  | Written papers using Overleaf, or through converting Jupyter notebooks to LaTeX               |
 
 I thought I would provide a list of packages I use frequently in Python, and my experience level with each one.
 
-| Python Packages      | Skill level | Note                                                                                          |
+| Python Packages      | Skill Level | Note                                                                                          |
 | -------------------- | ----------- | --------------------------------------------------------------------------------------------- |
-| **scikit-learn**     | Proficient  | Industry standard and I use this daily.                                                       |
+| **scikit-learn**     | Proficient  | Industry standard for machine learning. I use this daily.                                     |
 | **imbalanced-learn** | Improving   | Oversampling/undersampling/SMOTE for imbalanced data. Looking to make full use of this.       |
 | **mlxtend**          | Improving   | Machine learning extensions. Mostly for ensemble classifiers, looking to use for more.        |
+| **mlens**            | Improving   | A collection of ensemble macghine learning algorithms. Looking to make full use of this.      |
 | **xgboost**          | Improving   | Extreme gradient boosting. Mostly for random forest but looking to use for more.              |
 | **lightgbm**         | Improving   | Light gradient boosting. Looking to use an alternative to xgboost when necessary.             |
 | **catboost**         | Improving   | Categorical gradient boosting. Mostly for decision trees, looking to use where possible.      |
@@ -44,14 +45,15 @@ I thought I would provide a list of packages I use frequently in Python, and my 
 | **nonconformist**    | Proficient  | The best implementation of conformal prediction out there. Used in a number of studies.       |
 | **libsvm**           | Improving   | Looking to try out cool alternatives to scikit-learn for SVMs.                                |
 | **kmodes**           | Improving   | An implementation of k-modes not in scikit-learn. Learning as an alternative to k-means.      |
-| **numpy**            | Proficient  | Industry standard and I use this daily.                                                       |
+| **numpy**            | Proficient  | Industry standard for linear algebra and matrix mathematics. I use this daily.                |
 | **scipy**            | Proficient  | My goto for common mathematical functions. Used often.                                        |
-| **pandas**           | Proficient  | Industry standard and I use this daily.                                                       |
+| **pandas**           | Proficient  | Industry standard for data manipulation. I use this daily.                                    |
 | **plotly**           | Proficient  | Data visualization is my favourite part of a study. I love pretty graphs.                     |
 | **seaborn**          | Proficient  | Use this just as much as plotly for basically the same reasons.                               |
 | **librosa**          | Proficient  | A musical package for audio data. Used for in a number of studies.                            |
-| **keras**            | Improving   | Looking to try out cool alternatives to scikit-learn for neural networks.                     |
-| **pytorch**          | Improving   | Again, looking to try out cool alternatives to scikit-learn for neural networks.              |
+| **ghostml**          | Improving   | GHOST or Generalized Threshold Shifting Procedure, a novel way to handle imbalanced data.     |
+| **keras**            | Improving   | The scikit of neural networks, a wrapper for the OP tensorflow framework. Looking to master.  |
+| **pytorch**          | Improving   | An alternative to keras/tensorflow for neural networks, by Facebook.  Will give it a try.     |
 | **opencv-python**    | Improving   | Computer vision library. A new research area that I'm looking to explore in more detail.      |
 
 ## Projects & Licensing
