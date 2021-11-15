@@ -4,7 +4,7 @@
 alicelovestocode
 </h1>
 <p align="center">
-My name is Alice (she/her) and I am an aspiring Biomedical Research Scientist who codes in her free time.
+My name is Alice (she/her) and I am an aspiring Computational Pathologist / Neuroscientist who codes in her free time.
 </p>
 
 ***
@@ -15,7 +15,7 @@ I have a strong academic background in the computer sciences, specialising in ap
 
 Conformal prediction provides valid measures of confidence in a diagnosis, which is crucial for medical decision-making since it allows the estimation of the risk of an erroneous clinical decision for an individual patient. Furthermore, the risk of clinical errors may be controlled by an acceptable level of confidence for a given clinical decision and therefore the risk of misdiagnosis is known to both clinician and patient. Conformal predictors are region predictors, meaning that if not enough information is available to make a definitive diagnosis, then the algorithm would make a number of possible (multiple) diagnoses rather than an incorrect one. This would then lead to a scenario in which the patient would require further tests to narrow down the diagnosis. Conformal prediction could be used to screen patients for a disease, reducing bottlenecks in hospitals where many people may be on a waiting list for a diagnostic test. In the context of the COVID-19 pandemic, imagine that we could use conformal prediction to screen patients in the comfort of their own homes, using smartphone-recorded cough data, and only allowing multiple-diagnosis patients access to a PCR test performed by a clinician. Diagnosis would be safer, cheaper, and less of a strain on NHS services.
 
-Specifically, I use inductive conformal prediction. Since disease datasets often suffer from the class imbalance problem, I also apply Mondrian inductive conformal prediction, which is class-conditional and takes the imbalance of a dataset into account. Recently, the aspects of conformal prediction that I have an avid interest in are the use of model-agnostic nonconformity error functions and their effects on various underlying machine learning models, the effectiveness of using normalized nonconformity functions for classification problems, the use of hybrid nonconformity error functions to beat baseline function scores, and lastly, the use of conformal predictors in conjunction with cross-validation – notably the Mondrian cross-conformal prediction protocol.
+Specifically, I use inductive conformal prediction. Disease datasets often suffer from the class imbalance problem, so I apply Mondrian inductive conformal prediction, which is class-conditional and takes the imbalance of a dataset into account. The aspects of conformal prediction that I have an interest in are the use of model-agnostic nonconformity error functions and their effects on various underlying machine learning models, the effectiveness of normalized nonconformity functions for classification problems, the use of hybrid nonconformity error functions, and lastly, the use of conformal predictor ensembles (aggregated conformal predictors) and those in conjunction with cross-validation – cross-conformal predictors and Mondrian cross-conformal predictors.
 
 ## Skillset
 
