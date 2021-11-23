@@ -28,7 +28,7 @@ If you have any suggestions please contact me using the email provided on my pro
 | **Python**           | Proficient  | Strongest language, being coding in Python since 2016.                                        |
 | **Julia**            | Improving   | Working through some tutorials and making a few demo projects.                                |
 | **R**                | Improving   | Used before, but I would like to understand the language a bit better.                        |
-| **LaTeX**            | Proficient  | Written papers using Overleaf, or through converting Jupyter notebooks to LaTeX.              |
+| **LaTeX**            | Proficient  | Not really a language per se, but I often create research papers in Overleaf.                 |
 
 I thought I would provide a list of packages I use frequently in Python, and my experience level with each one.
 
