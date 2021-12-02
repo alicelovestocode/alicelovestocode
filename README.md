@@ -19,7 +19,7 @@ Here is my current WIP skillset. I like to code in Python, Julia, and R using Ju
 
 If you have any suggestions please contact me using the email provided on my profile. It would be much appreciated!
 
-| Languages            | Skill Level | Note                                                                                          |
+| Language             | Skill Level | Note                                                                                          |
 | -------------------- | ----------- | --------------------------------------------------------------------------------------------- |
 | **Python**           | Proficient  | Strongest language, being coding in Python since 2016.                                        |
 | **Julia**            | Improving   | Working through some tutorials and making a few demo projects.                                |
@@ -29,12 +29,12 @@ If you have any suggestions please contact me using the email provided on my pro
 
 I thought I would provide a list of packages I use frequently in Python, and my experience level with each one.
 
-| Python Packages      | Skill Level | Note                                                                                          |
+| Python Package       | Skill Level | Note                                                                                          |
 | -------------------- | ----------- | --------------------------------------------------------------------------------------------- |
 | **scikit-learn**     | Proficient  | Industry standard for machine learning. I use this daily.                                     |
 | **imbalanced-learn** | Improving   | Oversampling/undersampling/SMOTE for imbalanced data. Looking to make full use of this.       |
 | **mlxtend**          | Improving   | Machine learning extensions. Mostly for ensemble classifiers, looking to use for more.        |
-| **mlens**            | Improving   | A collection of ensemble macghine learning algorithms. Looking to make full use of this.      |
+| **mlens**            | Improving   | A collection of ensemble machine learning algorithms. Looking to make full use of this.       |
 | **xgboost**          | Improving   | Extreme gradient boosting. Mostly for random forest but looking to use for more.              |
 | **lightgbm**         | Improving   | Light gradient boosting. Looking to use an alternative to xgboost when necessary.             |
 | **catboost**         | Improving   | Categorical gradient boosting. Mostly for decision trees, looking to use where possible.      |
