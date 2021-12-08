@@ -9,6 +9,12 @@ My name is Alice (she/her) and I am an aspiring Computational Pathologist / Neur
 
 ***
 
+<a href="https://github.com/alicelovestocode">![github](https://img.shields.io/badge/GitHub-alicelovestocode-blueviolet?style=flat-square)</a>
+<a href="https://www.linkedin.com/in/alice-ashby/">![linkedin](https://img.shields.io/badge/LinkedIn-alicelovestonetwork-blueviolet?style=flat-square)</a>
+<a href="https://www.researchgate.net/profile/Alice-Ashby">![researchgate](https://img.shields.io/badge/ResearchGate-alicelovestoresearch-blueviolet?style=flat-square)</a>
+<a href="https://www.goodreads.com/user/show/136006135-alice-evelyn">![goodreads](https://img.shields.io/badge/Goodreads-alicelovestoread-blueviolet?style=flat-square)</a>
+<a href="https://alicelovestudy.imgbb.com/">![imgbb](https://img.shields.io/badge/ImgBB-alicelovestostudy-blueviolet?style=flat-square)</a>
+  
 ## Biography
 
 I have a strong academic background in the computer sciences, specialising in applications in medicine. My current research interests are in the diagnosis and prognosis of pulmonary diseases including lung cancers and pneumonia, and recently COVID-19, using machine learning and deep learning techniques on audio datasets. After being awarded a scholarship in June 2021, I was introduced to confidence machine learning via the conformal prediction framework.
@@ -56,8 +62,6 @@ I thought I would provide a list of packages I use frequently in Python, and my 
 
 ## Projects & Licensing
 
-A number of my projects are studies which are currently closed source due to licensing limbo or because they are not at a stage where I wish to publish them.
-
-It should be noted that most of my studies datasets are either sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php) or from GitHub repositories (see my starred repos) and are licensed appropriately. 
+A number of my projects are studies which are currently closed source due to licensing limbo or because they are not at a stage where I wish to publish them. It should be noted that most of my studies datasets are either sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php) or from GitHub repositories (see my starred repos) and are licensed appropriately. 
 
 I provide any code that I have created for my studies under the MIT license. I respectfully ask that credit be given where it's due.
