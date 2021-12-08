@@ -27,7 +27,7 @@ If you have any suggestions please contact me using the email provided on my pro
 
 | Language             | Skill Level | Note                                                                                          |
 | -------------------- | ----------- | --------------------------------------------------------------------------------------------- |
-| **Python**           | Proficient  | Strongest language, being coding in Python since 2016.                                        |
+| **Python**           | Proficient  | Strongest language, been coding in Python since 2016.                                        |
 | **Julia**            | Improving   | Working through some tutorials and making a few demo projects.                                |
 | **R**                | Improving   | Used before, but I would like to understand the language a bit better.                        |
 | **LaTeX**            | Proficient  | Not really a language per se, but I create research papers in Overleaf.                       |
