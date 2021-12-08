@@ -14,6 +14,7 @@ My name is Alice (she/her) and I am an aspiring Computational Pathologist / Neur
 <a href="https://www.researchgate.net/profile/Alice-Ashby">![researchgate](https://img.shields.io/badge/ResearchGate-alicelovestoresearch-blueviolet?style=flat-square)</a>
 <a href="https://www.goodreads.com/user/show/136006135-alice-evelyn">![goodreads](https://img.shields.io/badge/Goodreads-alicelovestoread-blueviolet?style=flat-square)</a>
 <a href="https://alicelovestudy.imgbb.com/">![imgbb](https://img.shields.io/badge/ImgBB-alicelovestostudy-blueviolet?style=flat-square)</a>
+<a href="">![medium](https://img.shields.io/badge/Medium-alicelovestowrite-blueviolet?style=flat-square)</a>
   
 ## Biography
 
