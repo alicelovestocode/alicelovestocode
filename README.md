@@ -9,12 +9,16 @@ My name is Alice and I am an aspiring Computational Pathologist / Neuroscientist
 
 ***
 
-<a href="https://github.com/alicelovestocode">![github](https://img.shields.io/badge/GitHub-alicelovestocode-blueviolet?style=flat-square)</a>
-<a href="https://www.linkedin.com/in/alice-ashby/">![linkedin](https://img.shields.io/badge/LinkedIn-alicelovestonetwork-blueviolet?style=flat-square)</a>
-<a href="https://www.researchgate.net/profile/Alice-Ashby">![researchgate](https://img.shields.io/badge/ResearchGate-alicelovestoresearch-blueviolet?style=flat-square)</a>
-<a href="https://www.goodreads.com/user/show/136006135-alice-evelyn">![goodreads](https://img.shields.io/badge/Goodreads-alicelovestoread-blueviolet?style=flat-square)</a>
-<a href="https://alicelovestudy.imgbb.com/">![imgbb](https://img.shields.io/badge/ImgBB-alicelovestostudy-blueviolet?style=flat-square)</a>
-<a href="">![medium](https://img.shields.io/badge/Medium-alicelovestowrite-blueviolet?style=flat-square)</a>
+<div align="center">
+
+  <a href="https://github.com/alicelovestocode">![github](https://img.shields.io/badge/GitHub-alicelovestocode-blueviolet?style=flat-square)</a>
+  <a href="https://www.linkedin.com/in/alice-ashby/">![linkedin](https://img.shields.io/badge/LinkedIn-alicelovestonetwork-blueviolet?style=flat-square)</a>
+  <a href="https://www.researchgate.net/profile/Alice-Ashby">![researchgate](https://img.shields.io/badge/ResearchGate-alicelovestoresearch-blueviolet?style=flat-square)</a>
+  <a href="https://www.goodreads.com/user/show/136006135-alice-evelyn">![goodreads](https://img.shields.io/badge/Goodreads-alicelovestoread-blueviolet?style=flat-square)</a>
+  <a href="https://alicelovestudy.imgbb.com/">![imgbb](https://img.shields.io/badge/ImgBB-alicelovestostudy-blueviolet?style=flat-square)</a>
+  <a href="">![medium](https://img.shields.io/badge/Medium-alicelovestowrite-blueviolet?style=flat-square)</a>
+
+</div>
   
 ## Biography
 
