@@ -45,25 +45,27 @@ I thought I would provide a list of packages I use frequently in Python, and my 
 | **scikit-learn**     | Proficient  | Industry standard for machine learning. I use this daily.                                     |
 | **imbalanced-learn** | Improving   | Sampling techniques for imbalanced data. Looking to make full use of this.                    |
 | **mlxtend**          | Improving   | Machine learning extensions. Mostly for ensemble classifiers, looking to use for more.        |
-| **mlens**            | Improving   | A collection of ensemble machine learning algorithms. Looking to make full use of this.       |
+| **mlens**            | Improving   | Collection of ensemble machine learning algorithms. Looking to make full use of this.         |
 | **xgboost**          | Improving   | Extreme gradient boosting. Mostly for random forest but looking to use for more.              |
 | **lightgbm**         | Improving   | Light gradient boosting. Looking to use an alternative to xgboost when necessary.             |
 | **catboost**         | Improving   | Categorical gradient boosting. Mostly for decision trees, looking to use where possible.      |
 | **nilearn**          | Improving   | Cool library for neuroimaging analysis that I am looking to check out sometime.               |
-| **nonconformist**    | Proficient  | The best implementation of conformal prediction out there. Used in a number of studies.       |
+| **nonconformist**    | Proficient  | Best implementation of conformal prediction out there. Used in a number of studies.           |
 | **libsvm**           | Improving   | Looking to try out cool alternatives to scikit-learn for SVMs.                                |
-| **kmodes**           | Improving   | An implementation of k-modes not in scikit-learn. Learning as an alternative to k-means.      |
+| **kmodes**           | Improving   | Implementation of k-modes not in scikit-learn. Learning as an alternative to k-means.         |
 | **numpy**            | Proficient  | Industry standard for linear algebra and matrix mathematics. I use this daily.                |
 | **scipy**            | Proficient  | My goto for common mathematical functions. Used often.                                        |
 | **pandas**           | Proficient  | Industry standard for data manipulation. I use this daily.                                    |
 | **plotly**           | Proficient  | Data visualization is my favourite part of a study. I love pretty graphs.                     |
 | **seaborn**          | Proficient  | Use this just as much as plotly for basically the same reasons.                               |
-| **librosa**          | Proficient  | A musical package for audio data. Used for in a number of studies.                            |
+| **librosa**          | Proficient  | Musical library for audio data. Used for in a number of studies.                              |
 | **ghostml**          | Improving   | GHOST or Generalized Threshold Shifting Procedure, a novel way to handle imbalanced data.     |
 | **keras**            | Improving   | The scikit of neural networks, a wrapper for the OP tensorflow framework. Looking to master.  |
-| **pytorch**          | Improving   | An alternative to keras/tensorflow for neural networks, by Facebook.  Will give it a try.     |
+| **tensorflow**       | Improving   | Industry standard for deep learning. Highly technical, but hoping to master one day.          |
+| **pytorch**          | Improving   | Alternative to keras/tensorflow for neural networks, by Facebook.  Will give it a try.        |
 | **opencv-python**    | Improving   | Computer vision library. A new research area that I'm looking to explore in more detail.      |
 | **biopython**        | Improving   | Biostatistics and bioinformatics library. I'm looking to explore this library in more detail. |
+| **mne**              | Improving   | Cool library for analyzing neurophysiological data. Looking to check out sometime.            |
 
 ## Projects & Licensing
 
