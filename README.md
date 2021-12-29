@@ -26,9 +26,7 @@ I have a strong academic background in the computer sciences, specialising in ap
 
 ## Skillset
 
-Here is my current WIP skillset. I like to code in Python, Julia, and R using Jupyter Notebooks through Microsoft's Visual Studio Code.
-
-If you have any suggestions please contact me using the email provided on my profile. It would be much appreciated!
+Here is my current skillset. I like to code using Jupyter Notebooks through Visual Studio Code.
 
 | Language             | Skill Level | Note                                                                                          |
 | -------------------- | ----------- | --------------------------------------------------------------------------------------------- |
@@ -38,18 +36,20 @@ If you have any suggestions please contact me using the email provided on my pro
 | **LaTeX**            | Proficient  | Not really a language per se, but I create research papers in Overleaf.                       |
 | **Bash**             | Proficient  | Not really a language per se, but I am experienced with a terminal.                           |
 
-I thought I would provide a list of packages I use frequently in Python, and my experience level with each one.
+I thought I would provide a list of packages I frequently use, or intend to use, in Python.
 
 | Python Package       | Skill Level | Note                                                                                          |
 | -------------------- | ----------- | --------------------------------------------------------------------------------------------- |
 | **scikit-learn**     | Proficient  | Industry standard for machine learning. I use this daily.                                     |
 | **imbalanced-learn** | Improving   | Sampling techniques for imbalanced data. Looking to make full use of this.                    |
+| **ghostml**          | Novice      | GHOST or Generalized Threshold Shifting Procedure, a novel way to handle imbalanced data.     |
 | **mlxtend**          | Improving   | Machine learning extensions. Mostly for ensemble classifiers, looking to use for more.        |
 | **mlens**            | Improving   | Collection of ensemble machine learning algorithms. Looking to make full use of this.         |
 | **xgboost**          | Improving   | Extreme gradient boosting. Mostly for random forest but looking to use for more.              |
 | **lightgbm**         | Improving   | Light gradient boosting. Looking to use an alternative to xgboost when necessary.             |
 | **catboost**         | Improving   | Categorical gradient boosting. Mostly for decision trees, looking to use where possible.      |
-| **nilearn**          | Improving   | Cool library for neuroimaging analysis that I am looking to check out sometime.               |
+| **nilearn**          | Novice      | Cool library for neuroimaging analysis that I am looking to check out sometime.               |
+| **mne**              | Novice      | Cool library for analyzing neurophysiological data. Looking to check out sometime.            |
 | **nonconformist**    | Proficient  | Best implementation of conformal prediction out there. Used in a number of studies.           |
 | **libsvm**           | Improving   | Looking to try out cool alternatives to scikit-learn for SVMs.                                |
 | **kmodes**           | Improving   | Implementation of k-modes not in scikit-learn. Learning as an alternative to k-means.         |
@@ -59,13 +59,11 @@ I thought I would provide a list of packages I use frequently in Python, and my 
 | **plotly**           | Proficient  | Data visualization is my favourite part of a study. I love pretty graphs.                     |
 | **seaborn**          | Proficient  | Use this just as much as plotly for basically the same reasons.                               |
 | **librosa**          | Proficient  | Musical library for audio data. Used for in a number of studies.                              |
-| **ghostml**          | Improving   | GHOST or Generalized Threshold Shifting Procedure, a novel way to handle imbalanced data.     |
+| **biopython**        | Novice      | Biostatistics and bioinformatics library. I'm looking to explore this library in more detail. |
 | **keras**            | Improving   | The scikit of neural networks, a wrapper for the OP tensorflow framework. Looking to master.  |
-| **tensorflow**       | Improving   | Industry standard for deep learning. Highly technical, but hoping to master one day.          |
-| **pytorch**          | Improving   | Alternative to keras/tensorflow for neural networks, by Facebook.  Will give it a try.        |
-| **opencv-python**    | Improving   | Computer vision library. A new research area that I'm looking to explore in more detail.      |
-| **biopython**        | Improving   | Biostatistics and bioinformatics library. I'm looking to explore this library in more detail. |
-| **mne**              | Improving   | Cool library for analyzing neurophysiological data. Looking to check out sometime.            |
+| **tensorflow**       | Novice      | Industry standard for deep learning. Highly technical, but hoping to master one day.          |
+| **pytorch**          | Novice      | Alternative to keras/tensorflow for neural networks, by Facebook.  Will give it a try.        |
+| **opencv-python**    | Novice      | Computer vision library. A new research area that I'm looking to explore in more detail.      |
 
 ## Projects & Licensing
 
