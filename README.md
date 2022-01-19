@@ -1,72 +1,57 @@
-***
-<h1 align="center">
-&nbsp;
-alicelovestocode
-</h1>
-<p align="center">
-My name is Alice and I am an aspiring Computational Pathologist / Neuroscientist who codes in her free time.
-</p>
+## Hello, I'm Alice! 👋
 
-***
+I'm a Computer Scientist💾 and Machine Learning📈 and Deep Learning📉 Researcher🔬 in Medicine🧪<br />
+I'm also an aspiring Computational Pathologist🧫 and Computational Neuroscientist🧠 **Pronouns: She/her**
 
-<div align="center">
-
-  <a href="https://github.com/alicelovestocode">![github](https://img.shields.io/badge/GitHub-alicelovestocode-blueviolet?style=flat-square)</a>
-  <a href="https://www.linkedin.com/in/alice-ashby/">![linkedin](https://img.shields.io/badge/LinkedIn-alicelovestonetwork-blueviolet?style=flat-square)</a>
-  <a href="https://www.researchgate.net/profile/Alice-Ashby">![researchgate](https://img.shields.io/badge/ResearchGate-alicelovestoresearch-blueviolet?style=flat-square)</a>
-  <a href="https://www.goodreads.com/user/show/136006135-alice-evelyn">![goodreads](https://img.shields.io/badge/Goodreads-alicelovestoread-blueviolet?style=flat-square)</a>
-  <a href="https://alicelovestudy.imgbb.com/">![imgbb](https://img.shields.io/badge/ImgBB-alicelovestostudy-blueviolet?style=flat-square)</a>
-  <a href="">![medium](https://img.shields.io/badge/Medium-alicelovestowrite-blueviolet?style=flat-square)</a>
-
-</div>
+---
+<a href="https://www.linkedin.com/in/alice-ashby/">![linkedin](https://img.shields.io/badge/LinkedIn-alicelovestonetwork-blueviolet)</a>
+<a href="https://www.researchgate.net/profile/Alice-Ashby">![researchgate](https://img.shields.io/badge/ResearchGate-alicelovestoresearch-blueviolet)</a>
+<a href="https://www.goodreads.com/user/show/136006135-alice-evelyn">![goodreads](https://img.shields.io/badge/Goodreads-alicelovestoread-blueviolet)</a>
+<a href="https://alicelovestudy.imgbb.com/">![imgbb](https://img.shields.io/badge/ImgBB-alicelovestostudy-blueviolet)</a>
   
-## Biography
+### Developer Profile
 
-I have a strong academic background in the computer sciences, specialising in applications in medicine. My current research interests are in the diagnosis and prognosis of pulmonary diseases including lung cancers and pneumonia, and recently COVID-19, using machine learning and deep learning techniques on audio datasets. After being awarded a scholarship in June 2021, I was introduced to confidence machine learning via the conformal prediction framework.
-
-## Skillset
+#### Languages
 
 Here is my current skillset. I like to code using Jupyter Notebooks through Visual Studio Code.
 
 | Language             | Skill Level | Note                                                                                          |
 | -------------------- | ----------- | --------------------------------------------------------------------------------------------- |
-| **Python**           | Proficient  | Strongest language, been coding in Python since 2016.                                        |
+| **Python**           | Proficient  | Strongest language, been coding in Python since 2016.                                         |
 | **Julia**            | Improving   | Working through some tutorials and making a few demo projects.                                |
 | **R**                | Improving   | Used before, but I would like to understand the language a bit better.                        |
-| **LaTeX**            | Proficient  | Not really a language per se, but I create research papers in Overleaf.                       |
+| **LaTeX**            | Proficient  | Not really a language per se, but I create research papers in LaTeX.                          |
 | **Bash**             | Proficient  | Not really a language per se, but I am experienced with a terminal.                           |
 
-I thought I would provide a list of packages I frequently use, or intend to use, in Python.
+You can view my [Python tech stack](https://rentry.co/python-tech-stack) to see what packages I use.
 
-| Python Package       | Skill Level | Note                                                                                          |
-| -------------------- | ----------- | --------------------------------------------------------------------------------------------- |
-| **scikit-learn**     | Proficient  | Industry standard for machine learning. I use this daily.                                     |
-| **imbalanced-learn** | Improving   | Sampling techniques for imbalanced data. Looking to make full use of this.                    |
-| **ghostml**          | Novice      | GHOST or Generalized Threshold Shifting Procedure, a novel way to handle imbalanced data.     |
-| **mlxtend**          | Improving   | Machine learning extensions. Mostly for ensemble classifiers, looking to use for more.        |
-| **mlens**            | Improving   | Collection of ensemble machine learning algorithms. Looking to make full use of this.         |
-| **xgboost**          | Improving   | Extreme gradient boosting. Mostly for random forest but looking to use for more.              |
-| **lightgbm**         | Improving   | Light gradient boosting. Looking to use an alternative to xgboost when necessary.             |
-| **catboost**         | Improving   | Categorical gradient boosting. Mostly for decision trees, looking to use where possible.      |
-| **nilearn**          | Novice      | Cool library for neuroimaging analysis that I am looking to check out sometime.               |
-| **mne**              | Novice      | Cool library for analyzing neurophysiological data. Looking to check out sometime.            |
-| **nonconformist**    | Proficient  | Best implementation of conformal prediction out there. Used in a number of studies.           |
-| **libsvm**           | Improving   | Looking to try out cool alternatives to scikit-learn for SVMs.                                |
-| **kmodes**           | Improving   | Implementation of k-modes not in scikit-learn. Learning as an alternative to k-means.         |
-| **numpy**            | Proficient  | Industry standard for linear algebra and matrix mathematics. I use this daily.                |
-| **scipy**            | Proficient  | My goto for common mathematical functions. Used often.                                        |
-| **pandas**           | Proficient  | Industry standard for data manipulation. I use this daily.                                    |
-| **plotly**           | Proficient  | Data visualization is my favourite part of a study. I love pretty graphs.                     |
-| **seaborn**          | Proficient  | Use this just as much as plotly for basically the same reasons.                               |
-| **librosa**          | Proficient  | Musical library for audio data. Used for in a number of studies.                              |
-| **biopython**        | Novice      | Biostatistics and bioinformatics library. I'm looking to explore this library in more detail. |
-| **keras**            | Improving   | The scikit of neural networks, a wrapper for the OP tensorflow framework. Looking to master.  |
-| **tensorflow**       | Novice      | Industry standard for deep learning. Highly technical, but hoping to master one day.          |
-| **pytorch**          | Novice      | Alternative to keras/tensorflow for neural networks, by Facebook.  Will give it a try.        |
-| **opencv-python**    | Novice      | Computer vision library. A new research area that I'm looking to explore in more detail.      |
+#### Interests
 
-## Projects & Licensing
+I'm a compulsive learner, and there isn't much that doesn't pique my curiousity!<br />
+However, some particular interests of mine include:
+* **Reading**📚. I'll read just about anything.<br />
+  Medical literature, gothic novels, and romance manga are my sweet spot.
+* **Languages**💬. I'm currently learning Japanese (日本語) and Norwegian (norsk).<br />
+  I plan to learn Chinese (中文) and Spanish (española) in the near future.
+* **Technology**🖥️. I've been a technologist ever since I was a child.<br />
+  I love building embedded systems with Arduino, Raspberry Pi, etc.
+  
+I'm passionate about mental health and wellbeing. If you need someone to talk to, reach out!💚
 
-A number of my projects are studies which are currently closed source due to licensing limbo or because they are not at a stage where I wish to publish them. It should be noted that most of my studies datasets are either sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php) or from GitHub repositories (see my starred repos) and are licensed appropriately. 
+#### Projects & Licensing
 
-I provide any code that I have created for my studies under the MIT license. I respectfully ask that credit be given where it's due.
+A number of my projects are studies which are currently closed source due to licensing limbo,<br />
+or because they are not at a stage where I wish to publish them. 
+
+The datasets I use in my studies are sourced from either the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php),<br />
+or from various GitHub repositories: see my 'Dataset' list under my starred✨ repos.
+
+Oh, and I provide any code that I have created for my studies under the MIT license.<br />
+I respectfully ask that credit be given where it's due. Thanks!
+
+---
+
+<a href="https://github.com/alicelovestocode">
+    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=alicelovestocode&show_icons=true&hide_border=true&theme=ayu-mirage&bg_color=00000000" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicelovestocode&theme=ayu-mirage&hide_border=true&layout=compact&card_width=445&bg_color=00000000" />
+</a>
