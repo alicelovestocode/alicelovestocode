@@ -1,7 +1,7 @@
 ## Hello, I'm Alice! 👋
 
 I'm a Computer Scientist💾 and Machine Learning📈 and Deep Learning📉 Researcher🔬 in Medicine🧪<br />
-I'm also an aspiring Computational Pathologist🧫 and Computational Neuroscientist🧠 **Pronouns: She/her**
+I'm also an aspiring Computational Pathologist🧫 and Computational Neuroscientist🧠
 
 ---
 <a href="https://www.linkedin.com/in/alice-ashby/">![linkedin](https://img.shields.io/badge/LinkedIn-alicelovestonetwork-blueviolet)</a>
@@ -29,14 +29,17 @@ You can view my [Python tech stack](https://rentry.co/python-tech-stack) to see 
 
 I'm a compulsive learner, and there isn't much that doesn't pique my curiousity!<br />
 However, some particular interests of mine include:
-* **Reading**📚. I'll read just about anything.<br />
+* **Reading**📚 - I'll read just about anything.<br />
   Medical literature, gothic novels, and romance manga are my sweet spot.
-* **Languages**💬. I'm currently learning Japanese (日本語) and Norwegian (norsk).<br />
+* **Languages**💬 - I'm currently learning Japanese (日本語) and Norwegian (norsk).<br />
   I plan to learn Chinese (中文) and Spanish (española) in the near future.
-* **Technology**🖥️. I've been a technologist ever since I was a child.<br />
-  I love building embedded systems with Arduino, Raspberry Pi, etc.
+* **Technology**🖥️ - I'm a technologist and love to build PCs. View my [PC specs](https://rentry.co/computer-specs).<br />
+  I also love building embedded systems with Arduino, Raspberry Pi, etc.
+* **Alternative Medicines**🌿 - I'm very interested in this area. <br />
+  Particularly; red-light therapy (RLT), aromatherapy, osteopathy, and nutrition.
   
-I'm passionate about mental health and wellbeing. If you need someone to talk to, reach out!💚
+Oh, and I'm passionate about mental health and wellbeing💚 <br />
+If you need someone to talk to, feel free to reach out. Everything kept confidential.
 
 #### Projects & Licensing
 
