@@ -35,8 +35,8 @@ However, some particular interests of mine include:
   I plan to learn Chinese (中文) and Spanish (española) in the near future.
 * **Technology**🖥️ - I'm a technologist and love to build PCs. View my [PC specs](https://rentry.co/computer-specs).<br />
   I also love building embedded systems with Arduino, Raspberry Pi, etc.
-* **Alternative Medicines**🌿 - I'm very interested in this area. <br />
-  Particularly; red-light therapy (RLT), aromatherapy, osteopathy, and nutrition.
+* **Alternative Medicines**🌿 - I'm very interested in this area. Particularly;<br /> 
+  Neurostimulation, red-light therapy, aromatherapy, osteopathy, and nutrition.
   
 Oh, and I'm passionate about mental health and wellbeing💚 <br />
 If you need someone to talk to, feel free to reach out. Everything kept confidential.
