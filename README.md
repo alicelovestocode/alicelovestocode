@@ -1,7 +1,7 @@
 ## Hello, I'm Alice! 👋
 
 I'm a Computer Scientist💾 and Machine Learning📈 and Deep Learning📉 Researcher🔬 in Medicine🧪<br />
-I'm also an aspiring Computational Pathologist🧫 and Computational Neuroscientist🧠
+My day job is a Healthcare Support Worker👩‍⚕️ at Shaw Healthcare 🏥 and I'm also a Data Scientist📊 at Virufy💉<br />
 
 ---
 <a href="https://www.linkedin.com/in/alice-ashby/">![linkedin](https://img.shields.io/badge/LinkedIn-alicelovestonetwork-blueviolet)</a>
