@@ -22,6 +22,8 @@ Here is my current skillset. I like to code using Jupyter Notebooks through Visu
 | **R**                | Improving   | Used before, but I would like to understand the language a bit better.                        |
 | **LaTeX**            | Proficient  | Not really a language per se, but I create research papers in LaTeX.                          |
 | **Bash**             | Proficient  | Not really a language per se, but I am experienced with a terminal.                           |
+| **JavaScript**       | Improving   | Used before in web development, but I would like to explore ML using JavaScript.              |
+| **SQL**              | Proficient  | I used Transact SQL (T-SQL) extensively during my time as a full stack developer.             |
 
 You can view my [Python tech stack](https://rentry.co/python-tech-stack) to see what packages I use.
 
