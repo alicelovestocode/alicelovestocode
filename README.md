@@ -57,6 +57,6 @@ I respectfully ask that credit be given where it's due. Thanks!
 ---
 
 <a href="https://github.com/alicelovestocode">
-    <img align="left" width="48%" src="https://github-readme-stats-alicelovestocode.vercel.app/api?username=alicelovestocode&show_icons=true&hide_border=true&theme=ayu-mirage&bg_color=00000000" />
+    <img align="left" width="48%" src="https://github-readme-stats-alicelovestocode.vercel.app/api?username=alicelovestocode&show_icons=true&hide_border=true&theme=ayu-mirage&bg_color=00000000&count_private=true" />
     <img width="48%" src="https://github-readme-stats-alicelovestocode.vercel.app/api/top-langs/?username=alicelovestocode&theme=ayu-mirage&hide_border=true&layout=compact&card_width=445&bg_color=00000000" />
 </a>
